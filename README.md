@@ -1,6 +1,6 @@
 # TaskFlow - Task Management Application
 
-![TaskFlow Screenshot](screenshot.png) <!-- You can add a screenshot later -->
+![TaskFlow Screenshot](task.png) <!-- You can add a screenshot later -->
 
 TaskFlow is a productivity-focused web application designed to help users create, organize, and manage tasks efficiently. With intuitive drag-and-drop functionality and local storage persistence, your tasks stay organized even after closing the browser.
 
